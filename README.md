@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm a passionate Full Stack Developer from Vietnam<br><br>- 🔭 I’m working as a Software Engineer  and contributing to frontend and backend for building web/mobile applications.<br>- 📚 I'm currently learning Cloud Computing, DevOps, MLOPS,...<br>- ⚡ In my free time I enjoy solving problems on Hackerrank, LeetCode and read technical articles.</p>
+<p align="left">I'm a passionate Developer from Vietnam<br><br>- 🔭 I’m working as a Software Engineer  and contributing to frontend and backend for building web/mobile applications.<br>- 📚 I'm currently learning Cloud Computing, DevOps,...<br>- ⚡ In my free time I enjoy solving problems on Hackerrank, LeetCode and read technical articles.</p>
 
 ###
 
