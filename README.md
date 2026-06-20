@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm a passionate Developer from Vietnam<br><br>- 🔭 I’m working as a Software Engineer  and contributing to frontend and backend for building web/mobile applications.<br>- 📚 I'm currently learning Cloud Computing, DevOps,...<br>- ⚡ In my free time I enjoy solving problems on Hackerrank, LeetCode and read technical articles.</p>
+<p align="left">I'm a Senior DevOps Engineer based in the UAE 🇦🇪<br><br>- 🔭 I'm working on designing and scaling cloud infrastructure, CI/CD pipelines, and Kubernetes platforms.<br>- ☁️ I specialize in Cloud Computing (AWS / Azure / GCP), Infrastructure as Code, and container orchestration.<br>- 🤖 I'm currently exploring AI/ML Ops — integrating AI tooling into deployment and monitoring pipelines.<br>- ⚡ In my free time I enjoy solving problems on Hackerrank, LeetCode and read technical articles.</p>
 
 ###
 
@@ -62,6 +62,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
 
 ###
