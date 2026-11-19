@@ -48,9 +48,9 @@ I build and run cloud platforms on <b>AWS</b> and <b>Azure</b>, with 7+ years ac
 
 ###
 
-<p align="left"><b>Cloud and platform</b></p>
+<p align="left"><b>Cloud and platform</b></p>  
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img width="12" />
@@ -91,6 +91,10 @@ I build and run cloud platforms on <b>AWS</b> and <b>Azure</b>, with 7+ years ac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" height="40" alt="opentelemetry logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="32" alt="grafana tempo" />
 </div>
 
 <p align="left"><b>Languages</b></p>
@@ -105,7 +109,7 @@ I build and run cloud platforms on <b>AWS</b> and <b>Azure</b>, with 7+ years ac
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
 </div>
 
 ###
